@@ -1,0 +1,3 @@
+pid_bldc_regulator.c:10:6:pid_init	32	static
+pid_bldc_regulator.c:22:6:pid_reset	16	static
+pid_bldc_regulator.c:28:5:pid_calculate	40	static
